@@ -24,3 +24,14 @@ Access to mental health support is often limited by availability or stigma. This
    ```bash
    git clone [https://github.com/nwenewo/mental-health-ai-assistant.git](https://github.com/nwenewo/mental-health-ai-assistant.git)
    cd mental-health-ai-assistant
+   
+2. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+
+4. **Run the app**
+    ```bash
+    python app.py
+
+⚠️ **Disclaimer**
+This AI is not a doctor. It cannot diagnose mental health conditions or prescribe medication. In a crisis, please contact local emergency services immediately.
